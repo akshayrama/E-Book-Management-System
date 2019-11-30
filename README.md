@@ -8,6 +8,10 @@ buying a book, can make sure that the book is not tampered by a third-party. Thi
 into its equivalent SHA256 hash code. If the contents of the PDF file is altered, it will be reflected by a change in its hash code which would help us
 help to identify tampering. 
 
-![Image of Integrity Checking](
-The administrator can also upload books and those can be viewed directly from the system.
+![Image of Integrity Checking](https://github.com/akshayrama/E-Book-Management-System/blob/master/ebookimg.png)
 
+The administrator can also upload books and these can be viewed directly from the system.
+
+![Image of Book Viewing](https://github.com/akshayrama/E-Book-Management-System/blob/master/ebookimg1.png)
+
+![Image of uploading](https://github.com/akshayrama/E-Book-Management-System/blob/master/ebookimg2.png)
